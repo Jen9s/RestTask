@@ -23,13 +23,13 @@ public class User {
         return content;
     }
 
-//    public int getFactorial(){
-//        return facade.GetNumberFactorial();
-//    }
-//
-//    public ArrayList getArrayListFactorial(){
-//        return facade.GetArrayListFactorial();
-//    }
+    public int getFactorial(){
+        return facade.GetNumberFactorial();
+    }
+
+    public ArrayList getArrayListFactorial(){
+        return facade.GetArrayListFactorial();
+    }
 
 }
 
